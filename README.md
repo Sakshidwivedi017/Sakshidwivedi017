@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, I'm Sakshi Dwivedi 👋</h1>
+<h1 align="center">✨ Hey, I'm Sakshi Dwivedi </h1>
 <h3 align="center">🚀 AI Developer | LLMs • Voice AI • Multi-Agent Systems</h3>
 
 <p align="center">
@@ -29,8 +29,7 @@ if you explore my work, you’ll find:
 - 🎙️ Voice AI that feels less robotic, more human  
 - ⚡ Systems optimized for speed, not just accuracy  
 
-Nothing experimental-only.  
-Everything built with real-world use in mind.
+<p align="center"> <b>Not experimental-only. Built for real-world impact.</b> </p>
 
 🎨 Tech Stack
 💻 Programming
