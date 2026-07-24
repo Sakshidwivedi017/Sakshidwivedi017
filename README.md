@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✨, I'm Sakshi Dwivedi</h1>
+<h1 align="center">✨ Hi, I'm Sakshi Dwivedi</h1>
 
 <h3 align="center">
 AI Engineer • Generative AI • Voice AI • Multi-Agent Systems
@@ -10,7 +10,7 @@ I build production-ready AI applications powered by LLMs, real-time voice interf
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I'm an AI Engineer passionate about building intelligent systems that solve real business problems.
 
@@ -18,21 +18,21 @@ My work focuses on designing and deploying production-grade AI applications usin
 
 ---
 
-# 🚀 What I'm Working On
+# What I'm Working On
 
-- 🎙️ Production-grade Voice AI platforms
-- 🤖 LLM-powered business automation
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔗 Multi-Agent AI Systems
-- 💬 Conversational AI with memory and tool calling
-- ⚡ High-performance FastAPI backend services
-- ☁️ Cloud-native AI infrastructure
+- Production-grade Voice AI platforms
+- LLM-powered business automation
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent AI Systems
+- Conversational AI with memory and tool calling
+- High-performance FastAPI backend services
+- Cloud-native AI infrastructure
 
 ---
 
-# 🏗 Featured Projects
+# Featured Projects
 
-## 🎙️ Vaani — Multi-Tenant Voice AI Platform
+## Vaani — Multi-Tenant Voice AI Platform
 
 A production-ready Voice AI platform that enables businesses to automate customer interactions through natural conversations.
 
@@ -50,7 +50,7 @@ A production-ready Voice AI platform that enables businesses to automate custome
 
 ---
 
-## 🤖 NexusFlow AI — Multi-Agent AI Builder
+## NexusFlow AI — Multi-Agent AI Builder
 
 A platform for building intelligent AI assistants powered by multiple agents.
 
@@ -69,15 +69,15 @@ A platform for building intelligent AI assistants powered by multiple agents.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,sql,git,github" />
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
@@ -95,7 +95,7 @@ A platform for building intelligent AI assistants powered by multiple agents.
 <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,docker" />
@@ -107,7 +107,7 @@ A platform for building intelligent AI assistants powered by multiple agents.
 <img src="https://img.shields.io/badge/REST_API-2E8B57?style=for-the-badge"/>
 </p>
 
-### 🗄 Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
@@ -119,7 +119,7 @@ A platform for building intelligent AI assistants powered by multiple agents.
 <img src="https://img.shields.io/badge/Pinecone-00B8D9?style=for-the-badge"/>
 </p>
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp" />
@@ -135,7 +135,7 @@ A platform for building intelligent AI assistants powered by multiple agents.
 
 ---
 
-# 📈 Currently Exploring
+# Currently Exploring ✨
 
 - Advanced Agentic AI Systems
 - Long-Term AI Memory
